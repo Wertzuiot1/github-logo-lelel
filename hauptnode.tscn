@@ -1,0 +1,14 @@
+[gd_scene format=2]
+
+[node name="hauptnode" type="Node"]
+
+[node name="lol" type="Label" parent="."]
+margin_left = 288.089
+margin_top = 138.796
+margin_right = 536.089
+margin_bottom = 339.796
+text = "HALLO WELT KÖNNT IHR MICH HÖREN"
+max_lines_visible = 0
+__meta__ = {
+"_edit_use_anchors_": false
+}
